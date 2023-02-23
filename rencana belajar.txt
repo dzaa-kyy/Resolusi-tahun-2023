@@ -7,3 +7,4 @@ Rencana belajar :
 6. Belajar framework javascript
     - Angular
     - React
+    - Vue
