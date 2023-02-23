@@ -5,5 +5,5 @@ Rencana belajar :
 4. PHP
 5. PHP OOP
 6. Belajar framework javascript
+    - Angular
     - React
-    - Vue
